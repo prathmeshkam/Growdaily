@@ -9,4 +9,4 @@ if __name__ == '__main__':
             app_icon = "D:\Practise Program PY\Project\icon.ico",
             ticker = "Drink Water Please",
             )
-        time.sleep(6)
+        
